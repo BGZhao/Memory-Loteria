@@ -5,10 +5,24 @@
   <meta charset="UTF-8">
 
   <title>Memory Loteria</title>
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
   <link rel="stylesheet" href="styles.css">
+  <script src="https://kit.fontawesome.com/4252960bea.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    <header>
+        <h1>Memory-Loteria</h1>
+    </header>
+    <section class="score-panel">
+      <ul class="guitar">
+        <li><i class="fas fa-guitar"></i></i>
+        <li><i class="fas fa-guitar"></i></i>
+        <li><i class="fas fa-guitar"></i></i>
+        <li><i class="fas fa-guitar"></i></i>  
+        <li><i class="fas fa-guitar"></i></i> 
+      </ul>
+
   <section class="memory-Loteria">
     <div class="memory-card" data-framework="El Chupacabras">
       <img class="front-face" src="img/El Chupacabras.png" alt="El Chupacabras" />
@@ -90,7 +104,13 @@
           <img class="front-face" src="img/La pintora.png" alt="La Pintora" />
           <img class="back-face" src="img/La pareja Mex.png" alt="La pareja"/>
         </div>
-  </section>
-  <script src="scripts.js"></script>
+        <script  src="scripts.js"></script>
+        
+        <div id="game-wrapper">
+          <div id="match-grid">
+          </div>
+         
+        </div>
+  </section> 
 </body>
 </html>
