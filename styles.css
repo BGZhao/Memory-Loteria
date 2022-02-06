@@ -1,5 +1,5 @@
 
-* {
+** {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -7,9 +7,16 @@
 
 
 body {
-  background: #b955a9 url('../img/Frijoles.jpeg') bottom;
+  background: #71b955 url('../img/Frijoles.jpeg') bottom;
     background-size: cover;
     font-family: 'Coda', cursive;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 h1{
@@ -19,19 +26,34 @@ h1{
   color: #e46ada;
   text-shadow: 1px 1px 2px rgba(5, 5, 0, 0.877);
 }
-
-.memory-Loteria {
+ 
+.deck .memory-Loteria{
+  
   width: 1200px;
-  height: 750px;
+  height: 1000px;
+  background: linear-gradient(160deg, #48d648 0%, #bd3210 100%);
+  padding: 32px;
+  border-radius: 10px;
+  box-shadow: 12px 15px 20px 0 rgba(228, 230, 146, 0.945);
+  flex-wrap: wrap;
+  perspective: 1000px;
+}
+
+.memory-Loteria{
+  width: 1100px;
+  height: 700px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
   perspective: 10000px;
+ 
 }
+ 
 
-.memory-card {
-  width: calc(16.5% - 10px);
-  height: calc(26.5% - 10px);
+ .memory-Loteria .memory-card {  
+
+  width: calc(16% - 10px);
+  height: calc(24 - 10px);
   margin: 5px;
   position: relative;
   transform: scale(1);
@@ -39,8 +61,9 @@ h1{
   transition: transform .5s;
   box-shadow: 1px 1px 1px rgba(109, 107, 107, 0.3)
 }
+
 .memory-card:active {
-  transform: scale(0.97);
+  transform: scale(0.85);
   transition: transform .2s;
 }
 
@@ -52,7 +75,7 @@ h1{
 .back-face {
   width: 100%;
   height: 100%;
-  padding: 15px;
+  padding: 3px;
   position: absolute;
   border-radius: 5px;
   background: #93eb9a;
@@ -83,4 +106,3 @@ h1{
   list-style: none;
   display: inline-block;
 }
-
