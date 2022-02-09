@@ -33,11 +33,14 @@ Because I had several images position in to top of each other and I have to take
 I run into too much problems with placing my items correctly
 here are few photos of the horrors I made:
 
-![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/El%20Chupacabras.png)
-
+![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/guitars%20display%20wrong%20Small.jpeg)
+![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/Setting%20up%20my%20container.png)
 
 the second problem after placing everything was that I could not have my cards shuffle correctly, the cards keep appearing in the same place and next to each other. 
 To correct the problem, I made my code look like this:
+
+![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/Cards%20not%20shuffle.png)
+![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/correcting%20code%20to%20shuffle.png)
 
 (function shuffle() {
   cards.forEach(card => {
