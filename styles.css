@@ -100,21 +100,22 @@ footer p {
   font-family: 'Open Sans', sans-serif;
   font-weight: 500;
   font-size: 15px;
-  color:rgba(212, 26, 73, 0.836);
+  color:rgba(25, 216, 223, 0.836);
   text-align: left;
   text-decoration: none;
 }
 
 .left a,
 .right a {
-  color: #bff5c2;
+ 
+  color: rgba(212, 26, 73, 0.836);
   text-shadow: black;
   font-weight: 300;
 }
 
 .left {
   float: left;
-  margin-left: -500px;
+  margin-left: -305px;
 }
 
 .right {
