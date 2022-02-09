@@ -3,26 +3,38 @@
 <html lang="es-419">
 <head>
   <meta charset="UTF-8">
-
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Memory Loteria</title>
+  <meta name="description" content="">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
   <link rel="stylesheet" href="styles.css">
   <script src="https://kit.fontawesome.com/4252960bea.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    
+  <div class="container">
     <header>
         <h1>Memory-Loteria</h1>
     </header>
+
     <section class="score-panel">
-      <ul class="guitar">
-        <li><i class="fas fa-guitar"></i></i>
-        <li><i class="fas fa-guitar"></i></i>
-        <li><i class="fas fa-guitar"></i></i>
-        <li><i class="fas fa-guitar"></i></i>  
-        <li><i class="fas fa-guitar"></i></i> 
+      <ul class="guitars">
+        <li><i class="fa fa-guitar"></i></li>
+        <li><i class="fa fa-guitar"></i></li>
+        <li><i class="fa fa-guitar"></i></li>
       </ul>
 
+      <span class="moves">3</span>
+      <div class="timer">
+        <span class="min">00</span>:<span class="sec">00</span>
+      </div>
+        <div id="restart">
+          <i class="fa fa-repeat"></i>
+        </div>
+  </section>
+  <section class="Board">
   <section class="memory-Loteria">
     <div class="memory-card" data-framework="El Chupacabras">
       <img class="front-face" src="img/El Chupacabras.png" alt="El Chupacabras" />
@@ -104,7 +116,22 @@
           <img class="front-face" src="img/La pintora.png" alt="La Pintora" />
           <img class="back-face" src="img/La pareja Mex.png" alt="La pareja"/>
         </div>
-        <script  src="scripts.js"></script>
+        <div class="memory-card" data-framework="El Charro">
+          <img class="front-face" src="img/El Charro.png" alt="El Charro" />
+          <img class="back-face" src="img/La pareja Mex.png" alt="La pareja"/>
+        </div>
+        <div class="memory-card" data-framework="El Charro">
+          <img class="front-face" src="img/El Charro.png" alt="El Charro" />
+          <img class="back-face" src="img/La pareja Mex.png" alt="La pareja"/>
+        </div>
+        <div class="memory-card" data-framework="El Cucuy">
+          <img class="front-face" src="img/El Cucuy.png" alt="El Cucuy" />
+          <img class="back-face" src="img/La pareja Mex.png" alt="La pareja"/>
+        </div><div class="memory-card" data-framework="El Cucuy">
+          <img class="front-face" src="img/El Cucuy.png" alt="La Pintora" />
+          <img class="back-face" src="img/La pareja Mex.png" alt="El Cucuy"/>
+        </div>
+        <script  src="Scripts.js"></script>
         
         <div id="game-wrapper">
           <div id="match-grid">
