@@ -1,7 +1,7 @@
-#**MEMORY-LOTERIA**
+# **MEMORY-LOTERIA**
 Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using iconic images in Mexican culture on a deck of cards instead of numbers.
 
-##**Instructions:**
+## **Instructions:**
 Lotería Mexicana’s simplest variant consists of the following rules:
 
 1. There is a deck with 54 cards, each card has an image of Mexican culture, but this version only have 12 cards.
@@ -26,7 +26,7 @@ Taking in consideration the time I had, since I work full time with overtime lik
 
 - I knew I needed to have all the cards in one screen to do the matching. I did run into a few problems with the display. I have to return to my lessons about boxes and placement. 
 
-[I also did some research:](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+[I also did some research on Mozilla:](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 
 Because I had several images position in to top of each other and I have to take in consideration the transtion of the board, memory-card, container and score board.
@@ -47,12 +47,12 @@ here are few photos of the horrors I made:
 
 ![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/correcting%20code%20to%20shuffle.png)
 
-function shuffle() {
-  cards.forEach(card => {
-    let randomPos = Math.floor(Math.random() * 32);
-    card.style.order = randomPos;
-  });
-})();
+- function shuffle() {
+-  cards.forEach(card => {
+-    let randomPos = Math.floor(Math.random() * 32);
+-    card.style.order = randomPos;
+-  });
+- })();
 
 Then I try to set my reset button, I wanted a button that look like the reset of the browser, so I use the Fa-Fa reset, but then I run into another problem, not matter what I did the button would not reset my cards. 
 
@@ -62,7 +62,7 @@ After asking for help from the intructor, he spot a capitalization error where I
 - My movements counter is not working, I need to debug.
 - My timer is does not have completed code yet. For Lack of time.
 - my score board also is not working. I need to debug.
-- I download files for music, but it is 1:30pm the project is due at 5:00 Pm. So I had to make some decisions on what to present. 
+- I download files for music, but it is 1:30pm the project is due at 5:00 pm. So I had to make some decisions on what to present. 
 - The game is work in process and will need an updated to fully work. 
 
 
