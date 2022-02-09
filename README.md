@@ -65,16 +65,23 @@ After asking for help from the instructor, he spot a capitalization error where 
 - I download files for music, but it is 1:30pm the project is due at 5:00 pm. So I had to make some decisions on what to present. 
 - The game is work in process and will need an updated to fully work. 
 
-#### ** Just for fun meaning of some of the loteria cards: **
+#### **JUST FOR FUN: Meaning of some of the loteria cards**
 
 ![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/El%20Cucuy.png)
 
-**EL Cucuy** is a Mexican urban legend. Legend says it that once upon a time a father was really angry at his kids for misbehaving. As a matter of punishment, he decided to lock his kids in his closet to learn their lesson. After a while, he decided to go to town and run some errands but he forgot to take his kids out of the closet. When he came back from the town he saw that his barn and his house caught on fire which killed the kids and the father was cursed. In disbelief, he decided to look for his kids in many closets. It has been years from look for his kids and started growing an appetite for them. Now he hunts kids and hides in closets at night waiting for the right moment to pounce.
+##### **EL Cucuy** 
+Is a Mexican urban legend. Legend says it that once upon a time a father was really angry at his kids for misbehaving. As a matter of punishment, he decided to lock his kids in his closet to learn their lesson. After a while, he decided to go to town and run some errands but he forgot to take his kids out of the closet. When he came back from the town he saw that his barn and his house caught on fire which killed the kids and the father was cursed. In disbelief, he decided to look for his kids in many closets. It has been years from look for his kids and started growing an appetite for them. Now he hunts kids and hides in closets at night waiting for the right moment to pounce.
 
 ![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/El%20Chupacabras.png)
-**El Cupacabras** a blood sucking creature, alien looking, that sucks the blood out of the cows,goats,chickens and other farm animals or animals that it finds.
+
+##### **El Cupacabras**
+ A blood sucking creature, alien looking, that sucks the blood out of the cows,goats,chickens and other farm animals or animals that it finds.
 
 ![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/La%20Llorona.png)
-**La Llorona** The crying lady that latino parents scare their kids with if they aren't behaving or doing what they're told.The earliest documentation of La Llorona is traced back to 1550 in Mexico City. But there are theories about her story being connected to specific Aztec mythological creation stories. "The Hungry Woman" includes a wailing woman constantly crying for food, which has been compared to La Llorona's signature nocturnal wailing for her children. The motherly nature of La Llorona's tragedy has been compared to Chihuacoatl, an Aztec goddess deity of motherhood. Her seeking of children to keep for herself is significantly compared to Coatlicue, known as "Our Lady Mother" or Tonantsi (whose also comparable to the Virgen de Guadalupe, another significant mother figure in Mexican-culture), also a monster that devours filth or sin.
+
+##### **La Llorona** 
+The crying lady that latino parents scare their kids with if they aren't behaving or doing what they're told.The earliest documentation of La Llorona is traced back to 1550 in Mexico City. But there are theories about her story being connected to specific Aztec mythological creation stories. "The Hungry Woman" includes a wailing woman constantly crying for food, which has been compared to La Llorona's signature nocturnal wailing for her children. The motherly nature of La Llorona's tragedy has been compared to Chihuacoatl, an Aztec goddess deity of motherhood. Her seeking of children to keep for herself is significantly compared to Coatlicue, known as "Our Lady Mother" or Tonantsi (whose also comparable to the Virgen de Guadalupe, another significant mother figure in Mexican-culture), also a monster that devours filth or sin.
 ![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/El%20Xoloitzcuintle.png)
-**El Xoloitzcuintle** The name comes from the God Xolotl that according to ancient narratives is its creator and itzcuīntli [it͡sˈkʷiːnt͡ɬi], meaning 'dog' in Nahuatl language.
+
+##### **El Xoloitzcuintle** 
+The name comes from the God Xolotl that according to ancient narratives is its creator and itzcuīntli [it͡sˈkʷiːnt͡ɬi], meaning 'dog' in Nahuatl language.
