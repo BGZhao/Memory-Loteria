@@ -33,7 +33,7 @@ Because I had several images position in to top of each other and I have to take
 I run into too much problems with placing my items correctly
 here are few photos of the horrors I made:
 
-![Guitar!](img/images for the project/guitars display wrong Small.jpeg)
+![alt tag](https://github.com/BGZhao/Memory-Loteria/blob/main/img/El%20Chupacabras.png)
 
 
 the second problem after placing everything was that I could not have my cards shuffle correctly, the cards keep appearing in the same place and next to each other. 
